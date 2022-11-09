@@ -5,7 +5,6 @@ package com.maven.examples;
  *
  */
 public class App
-
 {
     public static void main( String[] args )
     {
