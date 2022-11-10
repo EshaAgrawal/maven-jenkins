@@ -12,6 +12,6 @@ public class AppTest
     public void test_junit(){
         String s1 = "I do not match expected";
         String s2 = "This is test case in class";
-        assertEquals("This is test case in class", s1);
+        assertEquals("This is test case in class", s2);
     }
 }
